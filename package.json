@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.15.3",
-    "marko": "^4.4.21",
+    "marko": "^5.38.36",
     "mongoose": "^8.3.4"
   },
   "devDependencies": {},
